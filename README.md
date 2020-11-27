@@ -1,7 +1,5 @@
 # Akka-Sample
 
-### Technology stack
-
 * This project is a simple quickstart to start with Akka Framework app written in Java.
 
 ### How it works ?
